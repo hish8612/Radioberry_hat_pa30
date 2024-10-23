@@ -2,7 +2,7 @@
 
 beta0.2 Release
 
-This project provides a preamplifier to drive a [30W-PA (HL2-PA30 by JI1UDD)](https://github.com/ji1udd/HL2-PA30) for Radioberry-2. It will be plugged on top of the radioberry-2.<br>
+This project provides a preamplifier to drive a [30W-PA (HL2-PA30 by ji1udd)](https://github.com/ji1udd/HL2-PA30) for Radioberry-2. It will be plugged on top of the radioberry-2.<br>
 
 #### Feature
 ・Preamplifire(OPA2674) based on [radioberry.hat](https://github.com/pa3gsb/Radioberry-2.x/tree/master/hardware/hat)<br>
