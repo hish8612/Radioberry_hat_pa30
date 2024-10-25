@@ -8,7 +8,7 @@ This project provides a preamplifier to drive a [30W-PA (HL2-PA30 by ji1udd)](ht
 ・Preamplifire(OPA2674) based on [radioberry.hat](https://github.com/pa3gsb/Radioberry-2.x/tree/master/hardware/hat)<br>
 ・On board ADC(MAX11613) for measuring pa-current, temperature and pa-fwd/rev from HL2-PA30 board. <br>
 ・Paddle or straight key inputs and PTT(Key) inputs.<br>
-・No-latency sidetone output at local CW operation.<br>
+・No-latency sidetone output at [local CW operation.](https://github.com/hish8612/Hermes-Lite2/tree/master/gateware/variants/radioberry_cl025_cwsidetone)<br>
 
 
 #### Board View
