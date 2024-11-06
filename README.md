@@ -1,4 +1,4 @@
-# [Radioberry_hat_pa30](https://hish8612.github.io/Radioberry_hat_pa30/)
+# [Radioberry_hat_pa30](https://github.com/hish8612/Radioberry_hat_pa30)
 
 beta0.2 Release
 
