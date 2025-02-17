@@ -23,4 +23,8 @@ This project provides a preamplifier to drive a [30W-PA (HL2-PA30 by ji1udd)](ht
 
 <img src="./release/beta0.2/rev_hl2_pa30.png" width="90%">
 
+#### PA30 mesurements.
+
+<img src="./measurements/PA30_Filtter_NanoVNA.png" width="90%">
+
 // end item
